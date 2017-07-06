@@ -2,10 +2,10 @@
 
 class Database
 {
-  private static $dbName = '-' ;
-  private static $dbHost = 'mysql.-.com' ;
-  private static $dbUsername = '-';
-  private static $dbUserPassword = '-';
+  private static $dbName = 'yourDBname' ;
+  private static $dbHost = 'yourDBhost' ;
+  private static $dbUsername = 'yourDBusername';
+  private static $dbUserPassword = 'yourDBuserpassword';
 
     private static $cont  = null;
 
